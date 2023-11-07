@@ -1,6 +1,4 @@
-### Greetings my friend, my name is Egor and i frontend developer 👋
-
-### Welcome to my GitHub
+<h2>Greetings my friend, my name is Egor and i frontend developer 👋</h2>
 
 <hr/>
 
