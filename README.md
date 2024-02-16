@@ -7,7 +7,7 @@
 ### Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,tailwind,bootstrap)]()
 <br/>
-[![My Skills](https://skillicons.dev/icons?i=js,react,redux,gulp,webpack)]()
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,gulp,webpack)]()
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=docker,nodejs,mongodb,git,github)]()
 <br/>
